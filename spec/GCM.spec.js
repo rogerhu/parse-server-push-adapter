@@ -10,7 +10,7 @@ function mockSender(gcm) {
         {"error":"InvalidRegistration"},
         {"error":"InvalidRegistration"},
         {"error":"InvalidRegistration"}] }*/
-    
+
     let tokens = options.registrationTokens;
     const response = {
       multicast_id: 7680139367771848000,
